@@ -1,3 +1,5 @@
+オライリー技術監修手順
+
 
 
 君はまだWandboxの真の実力を知らない～C++er目線で～
@@ -10,8 +12,24 @@ https://qiita.com/melpon/items/e871abb8cd2b15558a53
 右上のアイコンからUser
 どうも検索できないみたい
 
+オリジナルのソースコード
+https://github.com/PacktPublishing/The-Modern-Cpp-Challenge
+
+毎日の作業の進め方
+（１）まずオリジナルのソースコードを開いて
+（２）それをwandboxに入れて実行し、テストを書いてバグを見つける
+（３）出来上がったコードをここに足して、コミットする
+
+
+
 001
 https://wandbox.org/permlink/zwd935hcKwTK3Rof
 
 002
+https://wandbox.org/permlink/btGDCuLnLAYqeZrb
+
+003
+https://wandbox.org/permlink/hL910xNAOk36P7pF
+
+
 
